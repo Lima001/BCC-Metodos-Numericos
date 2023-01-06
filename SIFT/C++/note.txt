@@ -1,0 +1,3 @@
+Algoritmo em desenvolvimento...
+
+O código está baseado atualmente no repositório disponível em: <https://github.com/dbarac/sift-cpp>
