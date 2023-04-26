@@ -6,7 +6,7 @@ def fcos(x):
     return 1 - 1/2 * x*x + 1/24 * x**4 - 1/720 * x**6
 
 def fsin(x):
-    return x - 1/6 * x**3 - 1/120 * x**5
+    return x - 1/6 * x**3 + 1/120 * x**5
 
 def rodar(x, y, angulo):
     return (x*fcos(angulo) - y*fsin(angulo), x*fsin(angulo) + y*fcos(angulo))
