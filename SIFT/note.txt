@@ -1,0 +1,7 @@
+Retomei com a implementação do algoritmo seguindo os artigos
+- Lowe, David G. (1999). "Object recognition from local scale-invariant features" (PDF). Proceedings of the International Conference on Computer Vision.
+- Lowe, David G. (2004). "Distinctive Image Features from Scale-Invariant Keypoints". International Journal of Computer Vision.
+
+O código foi baseado na implementação disponível em: <https://github.com/dbarac/sift-cpp>. 
+Em 2025, melhorias foram feitas com o auxílio de LLMs. 
+
